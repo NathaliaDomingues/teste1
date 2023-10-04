@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+h1{
+    background: #000000;
+    color: #ffef09e3;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+font-style: italic;
+font-weight: 800;
+letter-spacing: 8px;
+line-height: 100px;
+    margin-left: 100px;
+margin-right: 100px;
+margin-top: 50px;
+margin-bottom: 50px;
+padding: 60px;
+text-align: center;
+text-decoration:dashed;
+text-shadow: 3px 2px 1px #ff00ff;
+
+text-transform: uppercase;
+word-spacing: 5em;
+}
+
+main p{
+    color: #830e52c7;
+}
